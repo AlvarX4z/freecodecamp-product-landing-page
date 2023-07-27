@@ -109,3 +109,14 @@ i {
   margin: 5vh 0 4vh 0;
   transform: scale(1.5);
 }
+
+#video-container {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+iframe {
+  width: 100%;
+}
